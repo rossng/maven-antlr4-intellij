@@ -279,3 +279,5 @@ buildNumber.properties
 # Debug files
 *.dSYM/
 
+# Un-ignore the Maven wrapper
+!maven-wrapper.jar
